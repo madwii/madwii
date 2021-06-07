@@ -15,4 +15,8 @@ I'm a beginner web-developer
 <hr></hr>
 
 ### Follow Me
-![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=vk&logoColor)](https://vk.com/mad_kor)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/madkor)
+[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook&logoColor)](https://www.facebook.com/oracul7)
+[![linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/grigoriy-korolenkov-2a1a70209/)
+
