@@ -19,7 +19,7 @@ I'm a beginner web-developer
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/madkor)
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook&logoColor)](https://www.facebook.com/oracul7)
 [![linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/grigoriy-korolenkov-2a1a70209/)
-<br>
+
 ||||
 | - |:------------------:| -|
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madwii&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)    | ![cat-high-five](https://emoji.slack-edge.com/TPV9DP0N4/cat-high-five/91230d652eaf1cc1.gif) |
